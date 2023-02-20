@@ -789,7 +789,6 @@ footer .right_section .location p,
         flex-direction: column;
         /* align-content: space-; */
         justify-content: space-around;
-        border: 2px solid red;
     }
 
     footer .left_section {
